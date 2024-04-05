@@ -26,3 +26,10 @@ yarn-error.log*
 new.js
 module2.mjs
 module1.mjs
+reportWebVitals.js
+setupTests.js
+App.test.js
+robots.txt
+manifest.json
+logo.png
+favicon.ico
